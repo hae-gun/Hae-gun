@@ -1,5 +1,7 @@
 # Hae-Gun
 
+* [blog](https://webheck.tistory.com/)
+
 ## TECH
 
 * Java
