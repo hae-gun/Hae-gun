@@ -29,5 +29,6 @@
 
 * [Multi_Food(Web_Project)](https://github.com/Hae-gun/TeamProject)
 * [Latte_Room(IoT_Project)](https://github.com/Hae-gun/LatteRoom-Project)
+* [StoreManagementProject(Java Project)](https://github.com/Hae-gun/StoreManagementProject)
 
 ---
