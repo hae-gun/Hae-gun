@@ -3,7 +3,7 @@
 * [blog](https://webheck.tistory.com/)
 
 
-* [Hae-gun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hae-gun)](https://github.com/anuraghazra/github-readme-stats)
+[![Hae-gun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hae-gun)](https://github.com/anuraghazra/github-readme-stats)
 
 ## TECH
 
