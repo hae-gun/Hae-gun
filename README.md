@@ -12,9 +12,9 @@
 * Python
 * Android
 * Arduino
-* Socket Networking
 * HTML/CSS/JavaScript
-
+* SpringBoot / JPA
+* postgresql
 ---
 
 ## Repository
