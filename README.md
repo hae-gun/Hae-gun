@@ -37,9 +37,8 @@ postgresql
 
 [Latte_Room(IoT_Project)](https://github.com/Hae-gun/LatteRoom-Project)  <br>
 
-[StoreManagementProject(Java Project)](https://github.com/Hae-gun/StoreManagementProject)  <br>
-
 [BojBot_Project](https://github.com/hae-gun/JsonAPI)  <br>
+
 ---
 
 </div>
