@@ -1,6 +1,8 @@
 <div align="center">
   
 # Hi, I'm Hae-gun
+ 
+ ![t](https://i.imgur.com/gAL80EH.gif) 
   
 ---
   
