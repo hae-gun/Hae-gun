@@ -8,7 +8,7 @@
 
 ## TECH
 
-* Java
+* <img src="https://img.shields.io/badge/Java?style=flat-square&logo=#007396&logoColor=white"/></a>&nbsp 
 * Python
 * Android
 * Arduino
