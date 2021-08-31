@@ -1,3 +1,5 @@
+<div align="center">
+
 [![Hae-gun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hae-gun)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -6,7 +8,7 @@
 * [blog](https://webheck.tistory.com/)
 
 
-## <center>TECH</center>
+## TECH
 
 * <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
 * Python
@@ -36,3 +38,5 @@
 * [StoreManagementProject(Java Project)](https://github.com/Hae-gun/StoreManagementProject)
 * [BojBot_Project](https://github.com/hae-gun/JsonAPI)
 ---
+
+</div>
