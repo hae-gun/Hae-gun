@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SpringBoot-3766AB?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SpringBoot-00cc00?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JPA-3766AB?style=flat-square&logo=Hibernate&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jenkins-critical?style=flat-square&logo=Jenkins&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-3766AB?style=flat-square&logo=Docker&logoColor=white"/></a>
