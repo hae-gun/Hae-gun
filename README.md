@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Hibernate-cccc00?style=flat-square&logo=Hibernate&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-00cc00?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=Android&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white"/></a>
