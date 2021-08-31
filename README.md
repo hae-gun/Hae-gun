@@ -5,27 +5,27 @@
 
 # Hae-Gun
 
-* [blog](https://webheck.tistory.com/)
+[blog](https://webheck.tistory.com/)
 
 
 ## TECH
 
-* <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-* Python
-* Android
-* Arduino
-* HTML/CSS/JavaScript
-* SpringBoot / JPA
-* postgresql
+<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+Python
+Android
+Arduino
+HTML/CSS/JavaScript
+SpringBoot / JPA
+postgresql
 ---
 
 ## Repository
 
-* [TIL](https://github.com/Hae-gun/TIL)
+[TIL](https://github.com/Hae-gun/TIL)
 
-* [Java](https://github.com/Hae-gun/Java)
+[Java](https://github.com/Hae-gun/Java)
 
-* [Python](https://github.com/Hae-gun/Python)
+[Python](https://github.com/Hae-gun/Python)
 
   
 
@@ -33,10 +33,10 @@
 
 ## Project
 
-* [Multi_Food(Web_Project)](https://github.com/Hae-gun/TeamProject)
-* [Latte_Room(IoT_Project)](https://github.com/Hae-gun/LatteRoom-Project)
-* [StoreManagementProject(Java Project)](https://github.com/Hae-gun/StoreManagementProject)
-* [BojBot_Project](https://github.com/hae-gun/JsonAPI)
+[Multi_Food(Web_Project)](https://github.com/Hae-gun/TeamProject)
+[Latte_Room(IoT_Project)](https://github.com/Hae-gun/LatteRoom-Project)
+[StoreManagementProject(Java Project)](https://github.com/Hae-gun/StoreManagementProject)
+[BojBot_Project](https://github.com/hae-gun/JsonAPI)
 ---
 
 </div>
