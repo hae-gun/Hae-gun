@@ -20,8 +20,8 @@
 <img src="https://img.shields.io/badge/Jenkins-ff0000?style=flat-square&logo=Jenkins&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-3766AB?style=flat-square&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kubernetes-3366ff?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PostgreSQL-9cf?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
 
+<img src="https://img.shields.io/badge/PostgreSQL-9cf?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Arduino-00cc99?style=flat-square&logo=Arduino&logoColor=white"/></a>
 
