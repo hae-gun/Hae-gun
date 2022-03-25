@@ -34,7 +34,7 @@
 
 ## Repository  <br>
 
-[TIL](https://github.com/Hae-gun/TIL)  <br>
+[Algorithm](https://github.com/hae-gun/algorithm_study)  <br>
 
 [Java](https://github.com/Hae-gun/Java)  <br>
 
