@@ -44,13 +44,5 @@
 
 
 
-## Project  <br>
-
-[Multi_Food(Web_Project)](https://github.com/Hae-gun/TeamProject)  <br>
-
-[Latte_Room(IoT_Project)](https://github.com/Hae-gun/LatteRoom-Project)  <br>
-
-[BojBot_Project](https://github.com/hae-gun/JsonAPI)  <br>
-
 
 </div>
