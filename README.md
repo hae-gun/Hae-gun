@@ -41,7 +41,7 @@
 [Python](https://github.com/Hae-gun/Python)  <br>
 
 ## Resume <br>
-[Resume](https://file.notion.so/f/f/9ba33d55-fc2f-4082-9ce4-ece25a79332e/0ea2e66d-25ee-4900-9088-e84811d23afb/%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A5-%E1%84%8E%E1%85%AC%E1%84%92%E1%85%A8%E1%84%80%E1%85%B3%E1%86%AB.pdf?table=block&id=17fd97eb-9db7-800a-98dd-d186d9491aba&spaceId=9ba33d55-fc2f-4082-9ce4-ece25a79332e&expirationTimestamp=1737216000000&signature=_uncrI1ECatjzEjy1UtNs6ZUU7iiVKIe0Qt6zAsSY1E&downloadName=%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A5-%E1%84%8E%E1%85%AC%E1%84%92%E1%85%A8%E1%84%80%E1%85%B3%E1%86%AB.pdf)
+[Resume](https://file.notion.so/f/f/9ba33d55-fc2f-4082-9ce4-ece25a79332e/0ea2e66d-25ee-4900-9088-e84811d23afb/%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A5-%E1%84%8E%E1%85%AC%E1%84%92%E1%85%A8%E1%84%80%E1%85%B3%E1%86%AB.pdf?table=block&id=17fd97eb-9db7-800a-98dd-d186d9491aba&spaceId=9ba33d55-fc2f-4082-9ce4-ece25a79332e&expirationTimestamp=1738627200000&signature=PWL-wUFCV1UJuf7_6LERWXKE2iqKL_VElruvAl-ZcS8&downloadName=%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A5-%E1%84%8E%E1%85%AC%E1%84%92%E1%85%A8%E1%84%80%E1%85%B3%E1%86%AB.pdf)
 
 
   
