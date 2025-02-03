@@ -15,8 +15,9 @@
 
 ## TECH <br>
 
-<img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Hibernate-cccc00?style=flat-square&logo=Hibernate&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-00cc00?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>
@@ -30,15 +31,6 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Arduino-00cc99?style=flat-square&logo=Arduino&logoColor=white"/></a>
 
-
-
-## Repository  <br>
-
-[Algorithm](https://github.com/hae-gun/algorithm_study)  <br>
-
-[Java](https://github.com/Hae-gun/Java)  <br>
-
-[Python](https://github.com/Hae-gun/Python)  <br>
 
 ## Resume <br>
 [Resume](https://file.notion.so/f/f/9ba33d55-fc2f-4082-9ce4-ece25a79332e/0ea2e66d-25ee-4900-9088-e84811d23afb/%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A5-%E1%84%8E%E1%85%AC%E1%84%92%E1%85%A8%E1%84%80%E1%85%B3%E1%86%AB.pdf?table=block&id=17fd97eb-9db7-800a-98dd-d186d9491aba&spaceId=9ba33d55-fc2f-4082-9ce4-ece25a79332e&expirationTimestamp=1738627200000&signature=PWL-wUFCV1UJuf7_6LERWXKE2iqKL_VElruvAl-ZcS8&downloadName=%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A5-%E1%84%8E%E1%85%AC%E1%84%92%E1%85%A8%E1%84%80%E1%85%B3%E1%86%AB.pdf)
